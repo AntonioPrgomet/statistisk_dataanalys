@@ -1,7 +1,8 @@
 # Statistisk Dataanalys
 Denna repository är baserad på spellistan: \
 https://www.youtube.com/playlist?list=PLgzaMbMPEHEwkc-XVv3gpprOk7y2IHWLJ 
-som bygger på kapitel 1-8 i boken: Körner, S., & Wahlgren, L. (2015). *Statistisk Dataanalys* (5:e uppl.). Studentlitteratur. 
+som bygger på kapitel 1-8 i boken: \
+Körner, S., & Wahlgren, L. (2015). *Statistisk Dataanalys* (5:e uppl.). Studentlitteratur. 
 
 Ni hittar: 
 1. Föreläsningsanteckningar och kod till spellistan.
